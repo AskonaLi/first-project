@@ -10,8 +10,8 @@
 
 ---
 
-'''php
-
+```php
+<?php
 print_r('Hello, GitHub!')
-
-'''
+?>
+```
